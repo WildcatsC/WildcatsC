@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi⛱️
 
 <!--
 **WildcatsC/wildcatsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 - Ropsten/Rinkeby/Goerli: *im24steven.eth*
 
 - IG/WeChat: *im24steven*
+
+![image](https://user-images.githubusercontent.com/26359984/167078131-f03a3cfe-e477-42f2-8488-ea2d245cafbf.png)
