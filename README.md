@@ -15,12 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
- > Math & Physics @UCLA '22
- > Developer + Dancer
- > Web3 Tech + Business 
+ > Math & Physics @UCLA '22 | Developer + Dancer | Web3 Tech + Business 
 
 🔭 Currently learning and working on https://p12.network/
-
 
 - Ropsten/Rinkeby/Goerli: *im24steven.eth*
 
