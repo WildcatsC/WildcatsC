@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 ### lets make it launch🚀
 
 ![falcon-space-x](https://user-images.githubusercontent.com/26359984/167078230-8dcaba12-7959-4770-963b-e30c548d7897.gif) 
-<img src="https://user-images.githubusercontent.com/26359984/167078835-c5781696-d85d-4a89-b5e0-9de22d28eab0.gif" width="600" height="350">
+<img src="https://user-images.githubusercontent.com/26359984/167078835-c5781696-d85d-4a89-b5e0-9de22d28eab0.gif" width="700" height="330">
