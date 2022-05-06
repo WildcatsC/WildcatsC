@@ -19,11 +19,13 @@ Here are some ideas to get you started:
 
 🔭 Currently learning and working on https://p12.network/
 
+Reach me on: 
+
 - Ropsten/Rinkeby/Goerli: *im24steven.eth*
 
 - IG/WeChat: *im24steven*
 
-- https://www.linkedin.com/in/yanming-chen-670a3717a/
+- LinkedIn: https://www.linkedin.com/in/yanming-chen-670a3717a/
 
 ### Lets make it launch🚀
 
