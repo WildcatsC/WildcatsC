@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 Currently learning and working on https://p12.network/
+
+
 - Ropsten/Rinkeby/Goerli: *im24steven.eth*
 
 - IG/WeChat: *im24steven*
