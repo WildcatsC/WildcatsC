@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 Reach me on: 
 
-- Ropsten/Rinkeby/Goerli: *im24steven.eth*
-
 - IG/WeChat: *im24steven*
 
 - LinkedIn: https://www.linkedin.com/in/yanming-chen-670a3717a/
+
+**- Ropsten/Rinkeby/Goerli: im24steven.eth -**
 
 ### Lets make it launch🚀
 
