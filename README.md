@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ### lets make it launch🚀
 
-<img src="https://user-images.githubusercontent.com/26359984/167078230-8dcaba12-7959-4770-963b-e30c548d7897.gif" width="200" height="333"> <img src="https://user-images.githubusercontent.com/26359984/167078835-c5781696-d85d-4a89-b5e0-9de22d28eab0.gif" width="700" height="333">
+<img src="https://user-images.githubusercontent.com/26359984/167078230-8dcaba12-7959-4770-963b-e30c548d7897.gif" width="210" height="340"> <img src="https://user-images.githubusercontent.com/26359984/167078835-c5781696-d85d-4a89-b5e0-9de22d28eab0.gif" width="750" height="340">
