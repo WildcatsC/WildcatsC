@@ -25,7 +25,7 @@ Reach me on:
 
 - LinkedIn: https://www.linkedin.com/in/yanming-chen-670a3717a/
 
-**- Ropsten/Rinkeby/Goerli: im24steven.eth -**
+**Ropsten/Rinkeby/Goerli: im24steven.eth**
 
 ### Lets make it launch🚀
 
