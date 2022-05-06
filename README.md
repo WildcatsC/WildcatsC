@@ -1,4 +1,4 @@
-### Hi⛱️
+### ⛱️
 
 <!--
 **WildcatsC/wildcatsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  Math & Physics @UCLA '22
+  Developer + Dancer
+  Web3 Tech + Business
+
 🔭 Currently learning and working on https://p12.network/
 
 
