@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
-🌱 Math & Physics @UCLA '22 | Developer + Dancer | Web3 Tech + Business 
+🌱 Math & Physics @UCLA '22 | Developer + Dancer | Tech + Business 
 
-🔭 Currently learning and working on https://p12.network/
 
 Reach me on: 
 
@@ -26,6 +25,8 @@ Reach me on:
 - LinkedIn: https://www.linkedin.com/in/yanming-chen-670a3717a/
 
 - **0x24steven.eth**
+
+ex🔭 https://p12.network/
 
 ### Lets make it launch 🚀
 
