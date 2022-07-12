@@ -26,7 +26,7 @@ Reach me on:
 
 - **0x24steven.eth**
 
-ex🔭 https://p12.network/
+ex dev🔭 @ https://p12.network/
 
 ### Lets make it launch 🚀
 
