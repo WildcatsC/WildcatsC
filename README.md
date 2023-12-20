@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
-🌱 Math & Physics @UCLA '22 | MSBA '24 @UCLA Anderson | Developer + Dancer
+🌱 Math & Physics @UCLA '22 | MSBA '24 @UCLA Anderson | Dev + Dance
 
 
 Reach me on: 
