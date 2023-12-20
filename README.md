@@ -22,7 +22,7 @@ Reach me on:
 
 - IG/WeChat: *im24steven*
 
-- LinkedIn: https://www.linkedin.com/in/yanming-chen-670a3717a/
+- LinkedIn: https://www.linkedin.com/in/im24steven/
 
 - **0x24steven.eth**
 
